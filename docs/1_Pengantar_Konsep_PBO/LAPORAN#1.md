@@ -4,6 +4,8 @@
 
 ketiklah kompetensi tiap praktikum di sini
 
+contoh untuk kelas TI-2C
+
 ## Ringkasan Materi
 
 (berisi catatan penting pribadi selama praktikum berlangsung ataupun menemukan permasalahan khusus saat melakukan percobaan)
